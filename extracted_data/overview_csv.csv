@@ -1,0 +1,94 @@
+winkel,datum,tijd,totaal prijs,winkel categorie,id,time_chatgpt_response,date extracted,response
+Gamma,04-12-2024,10:15,29.48,Doe-Het-Zelf,Gamma04-12-202410-15,8.521723508834839,2024-12-23,"```json
+{
+    ""winkel"": ""Gamma"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Montagetape Tesa"",
+            ""aantal"": 1,
+            ""totaal prijs"": 6.49
+        },
+        {
+            ""beschrijving"": ""3M Fijnstofmasker Ventiel Tegen Geur"",
+            ""aantal"": 1,
+            ""totaal prijs"": 22.99
+        }
+    ],
+    ""totaal prijs"": 29.48,
+    ""totaal aantal producten"": 2,
+    ""datum"": ""04-12-2024"",
+    ""tijd"": ""10:15"",
+    ""winkel categorie"": ""Doe-Het-Zelf""
+}
+```"
+Hema,07-11-2024,13:49,33.58,Kleding,Hema07-11-202413-49,9.078609466552734,2024-12-23,"```json
+{
+    ""winkel"": ""Hema"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""String 3 stuks"",
+            ""aantal"": 1,
+            ""totaal prijs"": 8.59
+        },
+        {
+            ""beschrijving"": ""String 4 stuks"",
+            ""aantal"": 1,
+            ""totaal prijs"": 24.99
+        }
+    ],
+    ""totaal prijs"": 24.99,
+    ""totaal aantal producten"": 4,
+    ""datum"": ""07-11-2024"",
+    ""tijd"": ""13:49"",
+    ""winkel categorie"": ""Kleding""
+}
+```"
+Kruidvat,19-12-2024,16:36,5.98,Drogerie,Kruidvat19-12-202416-36,8.471514463424683,2024-12-23,"```json
+{
+    ""winkel"": ""Kruidvat"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Kerstkaarten"",
+            ""aantal"": 2,
+            ""totaal prijs"": 5.98
+        }
+    ],
+    ""totaal prijs"": 5.98,
+    ""totaal aantal producten"": 2,
+    ""datum"": ""19-12-2024"",
+    ""tijd"": ""16:36"",
+    ""winkel categorie"": ""Drogerie""
+}
+```"
+Vomar,02-12-2024,12:14,8.69,Supermarkt,Vomar02-12-202412-14,9.669667959213257,2024-12-23,"```json
+{
+    ""winkel"": ""Vomar"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Wokkels Naturel"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.15
+        },
+        {
+            ""beschrijving"": ""Kalkoenfilet"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.89
+        },
+        {
+            ""beschrijving"": ""Dizzi Panini"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.29
+        },
+        {
+            ""beschrijving"": ""Vici Surimi Sticks"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.36
+        }
+    ],
+    ""totaal prijs"": 8.69,
+    ""totaal aantal producten"": 4,
+    ""datum"": ""02-12-2024"",
+    ""tijd"": ""12:14"",
+    ""winkel categorie"": ""Supermarkt""
+}
+```"
