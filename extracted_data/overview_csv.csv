@@ -261,3 +261,263 @@ Vomar,02-12-2024,12:14,8.69,4,Supermarkt,Vomar02-12-202412-14,11.834022045135498
     ""winkel categorie"": ""Supermarkt""
 }
 ```"
+Gamma,04-12-2024,10:15,29.48,2,Bouwmarkt,Gamma04-12-202410-15,9.811265468597412,2025-01-30,"```json
+{
+    ""winkel"": ""Gamma"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Montagetape TESA"",
+            ""aantal"": 1,
+            ""totaal prijs"": 6.49
+        },
+        {
+            ""beschrijving"": ""Fijnstofmasker Ventiel Tegen Geur"",
+            ""aantal"": 1,
+            ""totaal prijs"": 22.99
+        }
+    ],
+    ""totaal prijs"": 29.48,
+    ""totaal aantal producten"": 2,
+    ""datum"": ""04-12-2024"",
+    ""tijd"": ""10:15"",
+    ""winkel categorie"": ""Bouwmarkt""
+}
+```"
+Hema,07-11-2024,13:49,24.99,5,Kleding,Hema07-11-202413-49,12.84835124015808,2025-01-30,"```json
+{
+    ""winkel"": ""Hema"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""String (3 stuks)"",
+            ""aantal"": 3,
+            ""totaal prijs"": 8.59
+        },
+        {
+            ""beschrijving"": ""String (4 voor 24,99)"",
+            ""aantal"": 1,
+            ""totaal prijs"": 24.99
+        },
+        {
+            ""beschrijving"": ""Onderged 4 voor 24,99"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.33
+        }
+    ],
+    ""totaal prijs"": 24.99,
+    ""totaal aantal producten"": 5,
+    ""datum"": ""07-11-2024"",
+    ""tijd"": ""13:49"",
+    ""winkel categorie"": ""Kleding""
+}
+```"
+Kruidvat,19-12-2024,16:36,5.98,2,Drogerij,Kruidvat19-12-202416-36,12.709692001342772,2025-01-30,"```json
+{
+    ""winkel"": ""Kruidvat"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Kerstkaarten"",
+            ""aantal"": 2,
+            ""totaal prijs"": 5.98
+        }
+    ],
+    ""totaal prijs"": 5.98,
+    ""totaal aantal producten"": 2,
+    ""datum"": ""19-12-2024"",
+    ""tijd"": ""16:36"",
+    ""winkel categorie"": ""Drogerij""
+}
+```"
+Lidl,23-12-2024,14:46,69.63,27,Supermarkt,Lidl23-12-202414-46,28.425232648849487,2025-01-30,"```json
+{
+    ""winkel"": ""Lidl"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Zonnebloemolie"",
+            ""aantal"": 2,
+            ""totaal prijs"": 4.98
+        },
+        {
+            ""beschrijving"": ""Pastasaus Napoli"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.98
+        },
+        {
+            ""beschrijving"": ""Picco pizza"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Halvolle zuivelmelk"",
+            ""aantal"": 4,
+            ""totaal prijs"": 3.96
+        },
+        {
+            ""beschrijving"": ""Bonnenrolletje in spek"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.29
+        },
+        {
+            ""beschrijving"": ""Feta kaas"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.69
+        },
+        {
+            ""beschrijving"": ""Melkchocolade"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.78
+        },
+        {
+            ""beschrijving"": ""Witte chocolade"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.19
+        },
+        {
+            ""beschrijving"": ""Pure chocolade"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.89
+        },
+        {
+            ""beschrijving"": ""Slagroom houdbaar"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.79
+        },
+        {
+            ""beschrijving"": ""Pesto genovese"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.98
+        },
+        {
+            ""beschrijving"": ""ONTBIJT"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.39
+        },
+        {
+            ""beschrijving"": ""Kipfilet"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Schouderham rond"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.99
+        },
+        {
+            ""beschrijving"": ""Zeevruchten nougat"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.99
+        },
+        {
+            ""beschrijving"": ""Rich tea biscuits"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.89
+        },
+        {
+            ""beschrijving"": ""Verse kruidcake"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Groene olijven"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.89
+        },
+        {
+            ""beschrijving"": ""Croutons"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.49
+        },
+        {
+            ""beschrijving"": ""Sperziebonen"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.69
+        },
+        {
+            ""beschrijving"": ""Zoete aardappelen"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.69
+        },
+        {
+            ""beschrijving"": ""Komkommer"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.69
+        },
+        {
+            ""beschrijving"": ""Bananen"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.69
+        },
+        {
+            ""beschrijving"": ""Peer Nashi"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.89
+        },
+        {
+            ""beschrijving"": ""Basilicum uit BIO"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.49
+        },
+        {
+            ""beschrijving"": ""Ananas"",
+            ""aantal"": 1,
+            ""totaal prijs"": 0.99
+        },
+        {
+            ""beschrijving"": ""Luxe kroketten"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Zoete rode puntpaprika"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Verse rauwe cake Belgisch"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        },
+        {
+            ""beschrijving"": ""Mini bavarois"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.99
+        }
+    ],
+    ""totaal prijs"": 69.63,
+    ""totaal aantal producten"": 27,
+    ""datum"": ""23-12-2024"",
+    ""tijd"": ""14:46"",
+    ""winkel categorie"": ""Supermarkt""
+}
+```"
+Vomar,02-12-2024,12:14,8.69,4,Supermarkt,Vomar02-12-202412-14,8.990360260009766,2025-01-30,"```json
+{
+    ""winkel"": ""Vomar"",
+    ""producten"": [
+        {
+            ""beschrijving"": ""Wokkels Naturel"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.15
+        },
+        {
+            ""beschrijving"": ""Kipfilet"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.89
+        },
+        {
+            ""beschrijving"": ""Panini"",
+            ""aantal"": 1,
+            ""totaal prijs"": 2.29
+        },
+        {
+            ""beschrijving"": ""Surimi Sticks"",
+            ""aantal"": 1,
+            ""totaal prijs"": 1.36
+        }
+    ],
+    ""totaal prijs"": 8.69,
+    ""totaal aantal producten"": 4,
+    ""datum"": ""02-12-2024"",
+    ""tijd"": ""12:14"",
+    ""winkel categorie"": ""Supermarkt""
+}
+```"
